@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "cls-hooked": "4.2.2",
-    "express": "4.11.2",
+    "express": "4.17.3",
     "request": "2.88.0"
   }
 }
